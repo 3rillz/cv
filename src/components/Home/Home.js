@@ -37,18 +37,11 @@ const Home = () => {
       <i
         onClick={() => setIsDark(!isDark)}
         className={`bx change-theme ${isDark ? "bx-sun" : "bx-moon"}`}
-        title="Theme"
+        title={`${isDark ? "Light Mode" : "Dark Mode"}`}
         id="theme-button"
       />
-      {/* Button For PDF */}
-      {/* <a
-        className="generate-pdf"
-        onClick={jsPDF}
-        href="/"
-        target="_blank"
-        download
-        id="resume-button"
-      >
+      {/* Button For PDF  */}
+      {/* <a className="generate-pdf" href="../../assets/samuel-pitan-cv.pdf" id="resume-button">
         <i className="bx bx-download" title="Generate PDF" />
       </a> */}
     </section>

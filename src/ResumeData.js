@@ -45,7 +45,7 @@ const homeData = {
   homeImage,
   homeTitle1: "Samuel Ayomide",
   homeTitle2: "Pitan",
-  homeProfession: "Web Developer",
+  homeProfession: "Web Developer | Junior Mobile Developer",
   homeInformation: [
     {
       text: "1b Makarius Street, Ajah, Lagos",
@@ -99,13 +99,13 @@ const educationData = {
   title: "Education",
   educations: [
     {
-      title: "React Native Development",
+      title: "React Native",
       studies: "Zero to Mastery Academy, Udemy",
       year: "2022 - Present",
       line: true,
     },
     {
-      title: "JavaScript Development",
+      title: "JavaScript",
       studies: "Fatech Academy, Lagos, Nigeria",
       year: "2022",
       line: true,
@@ -156,14 +156,21 @@ const experienceData = {
   experiences: [
     {
       title: "Fatech Academy | Front-End Developer and Instructor",
-      company: "2021 - PRESENT",
+      company: "2021 - PRESENT | https://fatech.ng",
       describe:
         "Working as a Front-End developer and instructor at Fatech Academy. Primary responsibilities are to develop the Front-End of Websites and also teach students who are willing to drift into the web design and development career.",
       line: true,
     },
     {
+      title: "Free Hosting Resell | Front-End Developer",
+      company: "2021 - PRESENT | https://freehostingresell.com",
+      describe:
+        "Free Hosting Resell offer free reselling platform for resellers to provide hosting services. My duties are to develop different responsive Front-End designs for Resellers' Websites",
+      line: true,
+    },
+    {
       title: "FHBRS | Front-End Developer",
-      company: "2021 - 2022",
+      company: "2021 - 2022 | https://fhbrs.com",
       describe:
         "I worked as a Front-End Developer at FHBRS, FHBRS is a platform where online digital businesses like Web Hosting, SMS, SMM and SEO Businesses, etc. offer a simple and easy reselling model for users.",
       line: false,

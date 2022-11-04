@@ -604,3 +604,15 @@ img {
   }
  
 }
+@media print {
+  .resume {
+    box-shadow: none;
+  }
+  .generate-pdf {
+    display: none;
+  }
+  .change-theme{
+    display: none;
+  }
+  
+}
