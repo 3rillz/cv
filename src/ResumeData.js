@@ -165,7 +165,7 @@ const experienceData = {
       title: "Free Hosting Resell | Front-End Developer",
       company: "2021 - PRESENT | https://freehostingresell.com",
       describe:
-        "Free Hosting Resell offer free reselling platform for resellers to provide hosting services. My duties are to develop different responsive Front-End designs for Resellers' Websites",
+        "Free Hosting Resell offers free reselling platform for resellers to provide hosting services. My duty is to develop different responsive Front-End designs for Resellers' Websites",
       line: true,
     },
     {
